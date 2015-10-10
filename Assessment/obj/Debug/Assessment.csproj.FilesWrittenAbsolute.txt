@@ -1,0 +1,8 @@
+/run/media/jonathan46000/DFire/Assessment2/Assessment/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/run/media/jonathan46000/DFire/Assessment2/Assessment/obj/Debug/Assessment.Assessment.resources
+/run/media/jonathan46000/DFire/Assessment2/Assessment/obj/Debug/Assessment.Properties.Resources.resources
+/run/media/jonathan46000/DFire/Assessment2/Assessment/bin/Debug/Assessment.exe.config
+/run/media/jonathan46000/DFire/Assessment2/Assessment/bin/Debug/Assessment.exe.mdb
+/run/media/jonathan46000/DFire/Assessment2/Assessment/bin/Debug/Assessment.exe
+/run/media/jonathan46000/DFire/Assessment2/Assessment/obj/Debug/Assessment.exe
+/run/media/jonathan46000/DFire/Assessment2/Assessment/obj/Debug/Assessment.exe.mdb
