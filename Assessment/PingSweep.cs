@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 using Assessment;
 using System.Net;
 using System.Net.NetworkInformation;
-using Computers;
 
 
 
@@ -14,12 +13,8 @@ namespace PingSweep
 {
     public class PingSweep
     {
-
-
-
         static int upCount = 0;
         static object lockObj = new object();
-
 
         public static IPAddress GetDefaultGateway()
         {
@@ -77,19 +72,12 @@ namespace PingSweep
              //return address;*/
         }
 
-        
-
-
         public static void PingSweeper()
         {
 
             string hostName = Dns.GetHostName();
 
             string myIP = "192.168.1.11";
-
-
-
-
 
             var bytes = IPAddress.Parse(myIP).GetAddressBytes();
             bytes[3] = 0;
@@ -140,12 +128,12 @@ namespace PingSweep
                 {
                     upCount++;
                 }
-                
+                /*
                 if (!Computers.ContainsKey(ip))
                 {
                     Computers.Add(ip, null);
                 } 
-                
+                */
 
 
             }

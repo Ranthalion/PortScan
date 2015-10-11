@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assessment", "Assessment\Assessment.csproj", "{2EED15DA-E7A2-4424-9559-7BCAD306D96B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkUtilties", "NetworkUtilties\NetworkUtilties.csproj", "{28287713-7125-450E-8340-DFD759273B17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleHarness", "ConsoleApplication1\ConsoleHarness.csproj", "{9A160B03-D507-4274-8EB4-7D61F1675827}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{2EED15DA-E7A2-4424-9559-7BCAD306D96B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EED15DA-E7A2-4424-9559-7BCAD306D96B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EED15DA-E7A2-4424-9559-7BCAD306D96B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28287713-7125-450E-8340-DFD759273B17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28287713-7125-450E-8340-DFD759273B17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28287713-7125-450E-8340-DFD759273B17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28287713-7125-450E-8340-DFD759273B17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A160B03-D507-4274-8EB4-7D61F1675827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A160B03-D507-4274-8EB4-7D61F1675827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A160B03-D507-4274-8EB4-7D61F1675827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A160B03-D507-4274-8EB4-7D61F1675827}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

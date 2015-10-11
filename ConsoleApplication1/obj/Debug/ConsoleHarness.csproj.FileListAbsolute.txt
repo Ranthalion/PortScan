@@ -1,0 +1,8 @@
+C:\projects\PortScan-master\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\projects\PortScan-master\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\projects\PortScan-master\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\projects\PortScan-master\ConsoleApplication1\bin\Debug\NetworkUtilties.dll
+C:\projects\PortScan-master\ConsoleApplication1\bin\Debug\NetworkUtilties.pdb
+C:\projects\PortScan-master\ConsoleApplication1\obj\Debug\ConsoleHarness.csprojResolveAssemblyReference.cache
+C:\projects\PortScan-master\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\projects\PortScan-master\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

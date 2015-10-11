@@ -50,3 +50,11 @@ Z:\Software\Assessment2\Assessment\obj\Debug\Assessment.Properties.Resources.res
 Z:\Software\Assessment2\Assessment\obj\Debug\Assessment.csproj.GenerateResource.Cache
 Z:\Software\Assessment2\Assessment\bin\Debug\Assessment.exe
 Z:\Software\Assessment2\Assessment\bin\Debug\Assessment.pdb
+C:\projects\PortScan-master\Assessment\bin\Debug\Assessment.exe.config
+C:\projects\PortScan-master\Assessment\obj\Debug\Assessment.exe
+C:\projects\PortScan-master\Assessment\obj\Debug\Assessment.pdb
+C:\projects\PortScan-master\Assessment\obj\Debug\Assessment.Assessment.resources
+C:\projects\PortScan-master\Assessment\obj\Debug\Assessment.Properties.Resources.resources
+C:\projects\PortScan-master\Assessment\obj\Debug\Assessment.csproj.GenerateResource.Cache
+C:\projects\PortScan-master\Assessment\bin\Debug\Assessment.exe
+C:\projects\PortScan-master\Assessment\bin\Debug\Assessment.pdb

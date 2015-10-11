@@ -1,0 +1,4 @@
+C:\projects\PortScan-master\NetworkUtilties\bin\Debug\NetworkUtilties.dll
+C:\projects\PortScan-master\NetworkUtilties\bin\Debug\NetworkUtilties.pdb
+C:\projects\PortScan-master\NetworkUtilties\obj\Debug\NetworkUtilties.dll
+C:\projects\PortScan-master\NetworkUtilties\obj\Debug\NetworkUtilties.pdb

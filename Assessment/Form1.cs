@@ -17,7 +17,7 @@ namespace Assessment
 
     public partial class Assessment : Form
     {
-        IDictionary<string, Computers> comp = new Dictionary<string, Computers>();
+        //IDictionary<string, Computers> comp = new Dictionary<string, Computers>();
 
 
         //public List<string,List<int>> Computers = new List<string,List<int>>();
@@ -99,7 +99,7 @@ namespace Assessment
 
 
 
-
+        
         public Assessment()
         {
             InitializeComponent();
@@ -121,7 +121,7 @@ namespace Assessment
             SelectNone.Checked = false;
 
             //txtConsole.AppendText("HelloWorld" + System.Environment.NewLine);
-
+            /*
             
             
             PingSweep.PingSweep.PingSweeper();
@@ -130,7 +130,7 @@ namespace Assessment
             {
                 txtConsole.AppendText(x.IP);
             }
-
+            */
             
 
 
@@ -171,6 +171,7 @@ namespace Assessment
 
         private void button2_Click(object sender, EventArgs e)
         {
+            
             txtConsole.Clear();
             SelectAll.Checked = false;
             SelectNone.Checked = false;
@@ -180,7 +181,7 @@ namespace Assessment
 
         public void PortScan_Click(object sender, EventArgs e)
         {
-
+            /*
             //Scan(string[] args "192.168.1.5","1","9999");
             //txtConsole.Text = String.Join(Environment.NewLine, Computers);
             //Console.WriteLine(String.Join(Environment.NewLine, Computers));
@@ -194,7 +195,7 @@ namespace Assessment
                 //PortScan.PortScan.Scan(args);
 
 
-                comp[currAddr] = new Computer { IP = currAddr, OpenPort = null };
+                //comp[currAddr] = new Computer { IP = currAddr, OpenPort = null };
                 
                 
 
@@ -214,7 +215,7 @@ namespace Assessment
                 txtConsole.Text += string.Format("Key = {0}, Value = {1}", kvp.Key, kvp.Value + Environment.NewLine);
             }
 
-
+            */
             
         }
 
@@ -224,5 +225,6 @@ namespace Assessment
         {
             //txtConsole.Text = String.Join(Environment.NewLine, Computers);
         }
+        
     }
 }

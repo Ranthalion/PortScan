@@ -7,14 +7,14 @@ using System.Threading.Tasks;
 namespace Assessment
 {
 
-    public class Computers
+    public class Computer
     {
         public string IP { get; set; }
-        public List<int> OpenPort { get; set; }
+        public List<int> OpenPorts { get; set; }
 
-        public Computers()
+        public Computer()
         {
-            OpenPort = new List<int>();
+            OpenPorts = new List<int>();
         }
     }
 
